@@ -22,8 +22,8 @@ over time.
 
 **[divrgnt.io](https://github.com/richsudaniman/divergnt-io)** — A learning platform built for people with
 ADHD. It breaks long lectures into interactive modules (analogy-based
-learning, podcasts, active recall flashcards, concept maps), turns messy
-audio/video brain dumps into structured notes, and builds adaptive exam study
+learning, podcasts, active recall flashcards, concept maps), turns spoken
+brain dumps and lecture materials into structured notes, and builds adaptive exam study
 plans based on how much time is left.
 
 ## 💡 Interests
