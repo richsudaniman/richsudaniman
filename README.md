@@ -35,4 +35,4 @@ plans based on how much time is left.
 
 ## 🛠️ Tools
 
-React · Tailwind CSS · Vite · Base44 · TanStack Query · Passio API · LLM integrations
+React · Tailwind CSS · Vite · Base44 · TanStack Query · LLM integrations
