@@ -18,7 +18,7 @@ automatic calorie tracking from food photos.
 
 **[Nuara](https://github.com/richsudaniman/Nuara)** — A speech therapy platform that helps SLP clinics
 assign home practice to patients, collect practice data, and measure accuracy
-over time.
+over time. [▶️ Watch the demo](https://youtu.be/J8V_Hfshahs)
 
 **[divrgnt.io](https://github.com/richsudaniman/divergnt-io)** — A learning platform built for people with
 ADHD. It breaks long lectures into interactive modules (analogy-based
