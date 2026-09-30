@@ -4,7 +4,7 @@ I'm a Solutions Engineer at **TMA Systems**, where I work at the intersection
 of technology and customers: running technical demos, scoping requirements,
 and designing solutions that fit how organizations actually operate. Outside
 of work, I build apps focused on **healthtech**, fitness, and accessible
-learning — tools that make care and growth easier for the people who need them.
+learning; tools that make care and growth easier for the people who need them.
 
 I like working where technology meets real users: understanding the problem,
 designing the solution, and shipping something people actually use.
