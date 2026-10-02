@@ -1,44 +1,26 @@
-# Hi, I'm Jalal 👋
+# Hi, I'm Jalal
 
-I'm a Solutions Engineer at **TMA Systems**, where I work at the intersection
-of technology and customers: running technical demos, scoping requirements,
-and designing solutions that fit how organizations actually operate. Outside
-of work, I build apps focused on **healthtech**, fitness, and accessible
-learning; tools that make care and growth easier for the people who need them.
+I'm a Solutions Engineer at **TMA Systems** - I run technical demos, scope requirements with customers, and figure out solutions that fit how they actually work. Outside of work I build apps, mostly around healthtech, fitness, and learning.
 
-I like working where technology meets real users: understanding the problem,
-designing the solution, and shipping something people actually use.
+I like the part where tech meets real users: figuring out the actual problem, building something, and getting people to use it.
 
-## 🚀 What I've built
+## Stuff I've built
 
-**[EJT Fitness](https://github.com/richsudaniman/ejt-fitness-app)** — A coaching platform currently used by
-**32 personal training clients**. Coaches assign and monitor fitness plans;
-clients track progress, keep fitness notes, log meals by barcode, and get
-automatic calorie tracking from food photos.
+**[EJT Fitness](https://github.com/richsudaniman/ejt-fitness-app)** - coaching platform currently used by **32 personal training clients**. Coaches assign and monitor fitness plans; clients track progress, keep fitness notes, log meals by barcode, and get calorie tracking from food photos.
 
-**[Nuara](https://github.com/richsudaniman/Nuara)** — A speech therapy platform that helps SLP clinics
-assign home practice to patients, collect practice data, and measure accuracy
-over time. [▶️ Watch the demo](https://youtu.be/J8V_Hfshahs)
+**[Nuara](https://github.com/richsudaniman/Nuara)** - speech therapy platform that helps SLP clinics assign home practice to patients, collect practice data, and track accuracy over time. [demo video](https://youtu.be/J8V_Hfshahs)
 
-**[divrgnt.io](https://github.com/richsudaniman/divergnt-io)** — A learning platform built for people with
-ADHD. It breaks long lectures into interactive modules (analogy-based
-learning, podcasts, active recall flashcards, concept maps), turns spoken
-brain dumps and lecture materials into structured notes, and builds adaptive exam study
-plans based on how much time is left.
+**[divrgnt.io](https://github.com/richsudaniman/divergnt-io)** - learning platform for people with ADHD. Breaks long lectures into interactive modules (analogies, podcasts, active recall flashcards, concept maps), turns spoken brain dumps and lecture materials into structured notes, and builds exam study plans based on how much time is left.
 
-**[RFP Autopilot](https://github.com/richsudaniman/rfp-autopilot)** — A Python tool for the security
-questionnaires and RFPs that come up in enterprise sales. You give it the
-spreadsheet and it drafts each answer from a library of previously approved
-answers, with the source and a confidence score. If nothing similar has been
-approved before, it leaves the answer blank and flags it for a human instead of guessing.
+**[RFP Autopilot](https://github.com/richsudaniman/rfp-autopilot)** - Python tool for the security questionnaires and RFPs that come up in enterprise sales. You give it the spreadsheet and it drafts each answer from a library of previously approved answers, with the source and a confidence score. If nothing similar has been approved before, it leaves the answer blank and flags it for a human instead of guessing.
 
-## 💡 Interests
+## Interested in
 
-- Healthtech and digital health tools
-- Accessible and neurodivergent-friendly design
-- AI-powered products that solve practical problems
-- Turning client needs into working software
+- healthtech and digital health tools
+- accessible / neurodivergent-friendly design
+- AI products that solve practical problems
+- turning client needs into working software
 
-## 🛠️ Tools
+## Tools
 
 React · Tailwind CSS · Vite · Base44 · TanStack Query · Python · scikit-learn · openpyxl · pytest · GitHub Actions · Claude API · LLM integrations
