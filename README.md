@@ -41,4 +41,4 @@ approved before, it leaves the answer blank and flags it for a human instead of 
 
 ## 🛠️ Tools
 
-React · Tailwind CSS · Vite · Base44 · TanStack Query · LLM integrations
+React · Tailwind CSS · Vite · Base44 · TanStack Query · Python · scikit-learn · openpyxl · pytest · GitHub Actions · Claude API · LLM integrations
