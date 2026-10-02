@@ -26,6 +26,12 @@ learning, podcasts, active recall flashcards, concept maps), turns spoken
 brain dumps and lecture materials into structured notes, and builds adaptive exam study
 plans based on how much time is left.
 
+**[RFP Autopilot](https://github.com/richsudaniman/rfp-autopilot)** — A Python tool for the security
+questionnaires and RFPs that come up in enterprise sales. You give it the
+spreadsheet and it drafts each answer from a library of previously approved
+answers, with the source and a confidence score. If nothing similar has been
+approved before, it leaves the answer blank and flags it for a human instead of guessing.
+
 ## 💡 Interests
 
 - Healthtech and digital health tools
