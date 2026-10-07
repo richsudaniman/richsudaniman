@@ -20,12 +20,6 @@ automatic calorie tracking from food photos.
 assign home practice to patients, collect practice data, and measure accuracy
 over time. [▶️ Watch the demo](https://youtu.be/J8V_Hfshahs)
 
-**[divrgnt.io](https://github.com/richsudaniman/divergnt-io)** — A learning platform built for people with
-ADHD. It breaks long lectures into interactive modules (analogy-based
-learning, podcasts, active recall flashcards, concept maps), turns spoken
-brain dumps and lecture materials into structured notes, and builds adaptive exam study
-plans based on how much time is left.
-
 **[RFP Autopilot](https://github.com/richsudaniman/rfp-autopilot)** — A Python tool for the security
 questionnaires and RFPs that come up in enterprise sales. You give it the
 spreadsheet and it drafts each answer from a library of previously approved
