@@ -16,8 +16,8 @@ designing the solution, and shipping something people actually use.
 clients track progress, keep fitness notes, log meals by barcode, and get
 automatic calorie tracking from food photos.
 
-**[Nuara](https://github.com/richsudaniman/Nuara)** — A speech therapy platform that helps SLP clinics
-assign home practice to patients, collect practice data, and measure accuracy
+**[Nuara](https://github.com/richsudaniman/Nuara)** *(demo prototype)* — A speech therapy platform that helps
+SLP clinics assign home practice to patients, collect practice data, and measure accuracy
 over time. [▶️ Watch the demo](https://youtu.be/J8V_Hfshahs)
 
 **[RFP Autopilot](https://github.com/richsudaniman/rfp-autopilot)** — A Python tool for the security
