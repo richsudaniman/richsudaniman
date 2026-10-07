@@ -11,7 +11,7 @@ designing the solution, and shipping something people actually use.
 
 ## 🚀 What I've built
 
-**[EJT Fitness](https://github.com/richsudaniman/ejt-fitness-app)** — A coaching platform currently used by
+**[EJT Fitness](https://github.com/richsudaniman/ejt-fitness-case-study)** — A coaching platform currently used by
 **32 personal training clients**. Coaches assign and monitor fitness plans;
 clients track progress, keep fitness notes, log meals by barcode, and get
 automatic calorie tracking from food photos.
@@ -32,6 +32,13 @@ spreadsheet and it drafts each answer from a library of previously approved
 answers, with the source and a confidence score. If nothing similar has been
 approved before, it leaves the answer blank and flags it for a human instead of guessing.
 
+**[GTM Lead Routing Bot](https://github.com/richsudaniman/GTM-Lead-routing-bot)** — A Python bot that routes
+inbound HubSpot leads to the right sales rep in Slack. It looks up the company,
+scores the lead against the ideal customer profile with Claude (or simple rules
+as a fallback), picks a rep by company size, and posts the lead to Slack with
+the rep tagged. Retries failed API calls, skips duplicate submissions, and logs
+every decision.
+
 ## 💡 Interests
 
 - Healthtech and digital health tools
@@ -41,4 +48,4 @@ approved before, it leaves the answer blank and flags it for a human instead of 
 
 ## 🛠️ Tools
 
-React · Tailwind CSS · Vite · Base44 · TanStack Query · Python · scikit-learn · openpyxl · pytest · GitHub Actions · Claude API · LLM integrations
+React · Tailwind CSS · Vite · Base44 · TanStack Query · Python · Flask · scikit-learn · openpyxl · pytest · GitHub Actions · Claude API · LLM integrations · HubSpot · Slack API
